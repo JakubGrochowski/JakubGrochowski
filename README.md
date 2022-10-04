@@ -2,5 +2,8 @@
 
 
 
-- 🌱 I’m currently learning python, SQL and how to be a good tester (ISTQB)
-- 📫 How to reach me: grochowskijakub@yahoo.com & https://facebook.com/qba.acc
+- 🌱I am learning Python, Java and SQL
+I have an certificate ISTQB Certified Tester Foundation Level
+- 📫 How to reach me: grochowskijakub@yahoo.com or
+                      https://linkedin.com/in/grochowski-jakub or
+                      https://facebook.com/qba.acc
